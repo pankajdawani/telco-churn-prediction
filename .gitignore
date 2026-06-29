@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Data/
+mlruns/
+mlflow.db
+Untitled-1.ipynb
+*.DS_Store
